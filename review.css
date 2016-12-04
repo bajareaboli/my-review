@@ -1,0 +1,18 @@
+.c-review{
+	background-color: rgb(61,77,103);
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	font-family: helvetica;
+}
+
+.para{
+	border: 2px;
+	color: rgb(125,130,130);
+	border-color: rgb(23 128 232);
+	font-family: helvetica;
+}
+.que{
+	color: black;
+	font-family: helvetica;
+}
